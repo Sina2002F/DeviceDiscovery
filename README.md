@@ -13,6 +13,7 @@
 - Send comments and reports.
 - Compare devices. 
 ### Admins - **Permissions**: 
+- Normal user permissions.
 - Manage user access.
 - Create and manage data for the website. 
 ### Superusers - **Permissions**: 
