@@ -9,7 +9,7 @@
 
 ## User Roles 
 ### Normal Users - **Permissions**: 
- - View information about digital devices.
+- View information about digital devices.
 - Send comments and reports.
 - Compare devices. 
 ### Admins - **Permissions**: 
