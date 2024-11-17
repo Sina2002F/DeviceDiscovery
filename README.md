@@ -13,12 +13,12 @@
 - Send comments and reports.
 - Compare devices. 
 ### Admins - **Permissions**: 
-- Normal user permissions.
-- Create and manage data for the website. 
+- Have all the permissions of normal users.
+- Create, edit, and manage their own blogs, reviews, and device data on the website.
 ### Superusers - **Permissions**: 
 - Full control over all aspects of the platform. 
 ### Validators - **Permissions**: 
-- Normal user permissions.
+- Have all the permissions of normal users.
 - Review and validate data to determine if it is publishable.
 ## Technologies Used 
 - **Backend**: Django, Django REST Framework
