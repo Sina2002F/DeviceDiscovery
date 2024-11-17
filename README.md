@@ -19,7 +19,7 @@
 - Full control over all aspects of the platform. 
 ### Validators - **Permissions**: 
 - Have all the permissions of normal users.
-- Review and validate data to determine if it is publishable.
+- Review and validate data to ensure it meets publication standards.
 ## Technologies Used 
 - **Backend**: Django, Django REST Framework
 - **Frontend**: React,Next 
