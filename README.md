@@ -1,5 +1,5 @@
 # Device Discovery 
-**Device Discovery** is a comprehensive platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. This project leverages Django and the Django REST Framework for the backend, along with a dynamic React frontend.
+**Device Discovery** is a comprehensive, open-source platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. This project leverages Django and the Django REST Framework for the backend, along with a dynamic React frontend.
 
 ![Device discovery](/docs/img/logo/logo.png)
 
