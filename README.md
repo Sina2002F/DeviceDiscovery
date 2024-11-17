@@ -1,6 +1,8 @@
 # Device Discovery 
 **Device Discovery** is a comprehensive platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. This project leverages Django and the Django REST Framework for the backend, along with a dynamic React frontend.
 
+![Device discovery](github.com/Ashkantvn/DeviceDiscovery/blob/main/docs/img/logo/logo.png)
+
 ## Project Goals 
 - **Create Reliable Data**: Ensure the accuracy and reliability of all data presented on the platform.
 - **Website Security**: Implement robust security measures to protect user data and the website itself.
