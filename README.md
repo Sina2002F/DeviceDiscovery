@@ -10,6 +10,9 @@
 - **Optimized Performance**: Ensure the platform is optimized for performance to provide a seamless user experience.
 
 ## User Roles 
+### Guests - **Permissions**:
+- View detailed information about individual devices.
+- Access a list of available devices.
 ### Normal Users - **Permissions**: 
 - View information about digital devices.
 - Send comments and reports.
