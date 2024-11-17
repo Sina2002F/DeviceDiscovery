@@ -14,7 +14,6 @@
 - Compare devices. 
 ### Admins - **Permissions**: 
 - Normal user permissions.
-- Manage user access.
 - Create and manage data for the website. 
 ### Superusers - **Permissions**: 
 - Full control over all aspects of the platform. 
