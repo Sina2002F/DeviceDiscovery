@@ -13,10 +13,10 @@
 ### Guests - **Permissions**:
 - View detailed information about devices.
 - Access list of devices,reviews and blogs.
-- View blogs,and reviews.
+- View blogs, and reviews.
 ### Normal Users - **Permissions**: 
 - View information about digital devices.
-- Send comments and reports.
+- Send comments, and reports.
 - Compare devices. 
 ### Admins - **Permissions**: 
 - Have all the permissions of normal users.
