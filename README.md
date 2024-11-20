@@ -12,8 +12,8 @@
 ## User Roles 
 ### Guests - **Permissions**:
 - View detailed information about devices.
-- Access list of devices, and blogs.
-- View blogs.
+- Access list of devices,reviews and blogs.
+- View blogs,and reviews.
 ### Normal Users - **Permissions**: 
 - View information about digital devices.
 - Send comments and reports.
