@@ -15,6 +15,7 @@
 
 ## Main Features
 - **Device Listings**: Browse through a comprehensive list of digital devices with detailed specifications.
+- **Blogs**:View, and manage content about digital devices.
 - **Device Reviews**: Read and write reviews for various digital devices to share and gain insights.
 - **Device Comparisons**: Compare multiple devices side by side to help users make informed decisions.
 - **User Authentication**:login and registration system for managing user accounts.
