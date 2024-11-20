@@ -13,6 +13,7 @@
 ### Guests - **Permissions**:
 - View detailed information about devices.
 - Access list of devices.
+- View blogs.
 ### Normal Users - **Permissions**: 
 - View information about digital devices.
 - Send comments and reports.
