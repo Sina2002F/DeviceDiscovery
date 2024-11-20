@@ -12,7 +12,7 @@
 ## User Roles 
 ### Guests - **Permissions**:
 - View detailed information about devices.
-- Access list of devices.
+- Access list of devices, and blogs.
 - View blogs.
 ### Normal Users - **Permissions**: 
 - View information about digital devices.
