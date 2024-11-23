@@ -29,7 +29,6 @@
 - **Permissions**:
   - View detailed information about devices.
   - Access list of devices, reviews, and blogs.
-  - View blogs, and reviews.
 
 ### Normal Users
 - **Permissions**:
