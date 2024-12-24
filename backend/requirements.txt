@@ -5,3 +5,8 @@ Django>=4.2,<5.0
 # test 
 pytest 
 pytest-django
+
+
+# refactor and formatting
+flake8
+black
