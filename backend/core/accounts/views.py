@@ -2,26 +2,26 @@ from django.shortcuts import render
 from rest_framework.generics import GenericAPIView
 
 # Create your views here.
-class profileAPI(GenericAPIView):
+class ProfileAPI(GenericAPIView):
     pass
 
-class signUpAPI(GenericAPIView):
+class SignUpAPI(GenericAPIView):
     pass
 
-class loginAPI(GenericAPIView):
+class LoginAPI(GenericAPIView):
     pass
 
-class logoutAPI(GenericAPIView):
+class LogoutAPI(GenericAPIView):
     pass
 
-class deleteAccountAPI(GenericAPIView):
+class DeleteAccountAPI(GenericAPIView):
     pass
 
-class changePassAPI(GenericAPIView):
+class ChangePassAPI(GenericAPIView):
     pass
 
-class passwordRecoveryAPI(GenericAPIView):
+class PasswordRecoveryAPI(GenericAPIView):
     pass
 
-class passwordRecoveryVerificationAPI(GenericAPIView):
+class PasswordRecoveryVerificationAPI(GenericAPIView):
     pass
