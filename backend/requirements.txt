@@ -10,3 +10,9 @@ pytest-django
 # refactor and formatting
 flake8
 black
+
+
+# django rest framework
+djangorestframework
+markdown
+django-filter
