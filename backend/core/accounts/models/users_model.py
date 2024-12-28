@@ -9,6 +9,7 @@ class CustomUser(AbstractBaseUser,PermissionsMixin):
     is_admin = models.BooleanField(default=False)
     is_validator = models.BooleanField(default=False)
     is_active = models.BooleanField(default=False)
+    is_staff =  models.BooleanField(default=False)
     updated_date = models.DateField(auto_now=False, auto_now_add=True)
     created_date = models.DateField(auto_now=False, auto_now_add=True)
 
@@ -16,6 +17,9 @@ class CustomUser(AbstractBaseUser,PermissionsMixin):
     REQUIRED_FIELDS = []
 
     objects = CustomUserManager()
+
+    class Meta:
+        verbose_name = 'user'
 
     def __str__(self):
         return self.email

@@ -9,6 +9,7 @@ class TestAccountModels(TestCase):
         self.assertFalse(user.is_validator)
         self.assertFalse(user.is_superuser)
         self.assertFalse(user.is_admin)
+        self.assertFalse(user.is_staff)
 
         try:
             self.assertIsNone(user.username)
@@ -30,6 +31,7 @@ class TestAccountModels(TestCase):
         self.assertTrue(user.is_superuser)
         self.assertTrue(user.is_admin)
         self.assertTrue(user.is_validator)
+        self.assertTrue(user.is_staff)
 
         try:
             self.assertIsNone(user.username)
